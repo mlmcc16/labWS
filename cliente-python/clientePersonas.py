@@ -65,7 +65,7 @@ def crear(cedula: int, nombre: str, apellido: str):
 #######################################################
 print("Iniciando " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 cargar_variables()
-
+print("Texto random del primer final: Modificado por Laura Capdevila")
 print("Listar personas:")
 listar()
 print("________________")
